@@ -1,5 +1,5 @@
 # 💫 About Me:
-ECE Student <br>Painter by passion 
+ECE Student <br>Painter by passion <br> I'm currently learning VHDL
 
 
 ## 🌐 Socials:
